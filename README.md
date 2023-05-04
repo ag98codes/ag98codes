@@ -4,6 +4,7 @@ My name is Alessandro and I am a driven and ambitious student with a passion for
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![VBA](https://img.shields.io/badge/VBA-8674A1?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ag98codes&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ag98codes&theme=calm&hide_border=true)<br/>
